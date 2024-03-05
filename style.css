@@ -19,8 +19,9 @@
     border-radius: 20px;
     border-color: #000;
     border-style: dotted;
-    border-width: 7px;
+    border-width: 5px;
     width: 387px;
+    box-shadow: -8px -8px 15px rgba(255, 255, 255, 0.1), 5px 5px 15px rgba(0, 0, 0, 0.2);
 }
 
 .calculator form input{
